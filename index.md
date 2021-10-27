@@ -7,4 +7,3 @@ Set of recipes as given by my grandma.
   - [margarita](pizzas/margarita.md)
 - sauces(TODO)
 - spreads(TODO)
-- sss(TODO)
